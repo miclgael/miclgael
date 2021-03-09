@@ -11,5 +11,3 @@ Take a look at [my work](https://www.michaelgale.dev/work), [read my blog](https
 - 💬 Ask me about **CSS or HTML**
 - 📫 How to reach me:  **[&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#064;&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#103;&#097;&#108;&#101;&#046;&#100;&#101;&#118;](mailto:&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#064;&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#103;&#097;&#108;&#101;&#046;&#100;&#101;&#118;)**
 - 😄 Pronouns: **he/him** ([why](https://medium.com/gender-inclusivit/why-i-put-pronouns-on-my-email-signature-and-linkedin-profile-and-you-should-too-d3dc942c8743))
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=miclgael&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
