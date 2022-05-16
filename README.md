@@ -7,7 +7,7 @@ I'm a web developer from Australia.
 I make fast, accessible websites and web apps. Hire me to build you a website, teach you to code or DJ at your wedding (I hope you like Deftones).
 
 - 🔭 I’m currently working on **[ohsilence.com](https://www.ohsilence.com/)**
-- 📚 I’m currently learning **Vue 3, Vite and TypeScript**
+- 📚 I’m currently learning **Nuxt 3 3, Vite and TypeScript**
 - 📫 How to reach me:  **[&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#064;&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#103;&#097;&#108;&#101;&#046;&#100;&#101;&#118;](mailto:&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#064;&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#103;&#097;&#108;&#101;&#046;&#100;&#101;&#118;)**
 - 😄 Pronouns: **he/him** ([why](https://medium.com/gender-inclusivit/why-i-put-pronouns-on-my-email-signature-and-linkedin-profile-and-you-should-too-d3dc942c8743))
 - 🎵 Listening to: <!-- LN -->**Infinite Mixtapes** on [NTS](https://www.nts.live/infinite-mixtapes)<!-- ELN -->
