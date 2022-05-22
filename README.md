@@ -4,7 +4,7 @@
 
 I'm a web developer from Australia.
 
-I make fast, accessible websites and web apps. Hire me to build you a website, teach you to code or DJ at your wedding (I hope you like Deftones).
+I make fast, accessible websites and web apps. Hire me to build you a website, teach you to code or DJ at your wedding (I hope you like Mariachi El Bronx!)
 
 - 🔭 I’m currently working on **[ohsilence.com](https://www.ohsilence.com/)**
 - 📚 I’m currently learning **Nuxt 3, Vite and TypeScript**
