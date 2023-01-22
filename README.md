@@ -10,6 +10,6 @@ I make fast, accessible websites and web apps. Hire me to build you a website, t
 - 📚 I’m currently learning **Nuxt 3, Vite and TypeScript**
 - 📫 How to reach me:  **[&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#064;&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#103;&#097;&#108;&#101;&#046;&#100;&#101;&#118;](mailto:&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#064;&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#103;&#097;&#108;&#101;&#046;&#100;&#101;&#118;)**
 - 😄 Pronouns: **he/him** ([Read: _Why I Put Pronouns on my Email Signature and You Should Too_](https://medium.com/gender-inclusivit/why-i-put-pronouns-on-my-email-signature-and-linkedin-profile-and-you-should-too-d3dc942c8743))
-- 🎵 Listening to: <!-- LN -->**[Oh Silence Records playlist on Spotify](https://open.spotify.com/playlist/6lm8B1mf1v60pwyf7rkplp?si=0a3bddd5194c4d6a)<!-- ELN -->
+- 🎵 Listening to: <!-- LN -->[**Oh Silence Records** playlist on Spotify](https://open.spotify.com/playlist/6lm8B1mf1v60pwyf7rkplp?si=0a3bddd5194c4d6a)<!-- ELN -->
 
 Check out [my blog  &rarr;](https://michaelgale.dev/blog/)
