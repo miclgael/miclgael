@@ -8,7 +8,7 @@ I make fast, accessible websites and web apps. Hire me to build you a website, t
 
 - 🔭 I’m currently working on **[michaelgale.dev](https://michaelgale.dev/)**, **[ohsilence.com](https://www.ohsilence.com/)**, and **[whalebones.net](https://www.whalebones.net/)**
 - 📚 I’m currently learning **Nuxt 3 and modern CSS**
-- 📫 How to reach me:  **[&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#064;&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#103;&#097;&#108;&#101;&#046;&#100;&#101;&#118;](mailto:&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#064;&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#103;&#097;&#108;&#101;&#046;&#100;&#101;&#118;)**
+- 📫 How to reach me:  **https://www.michaelgale.dev/contact**
 - 😄 Pronouns: **he/him** ([Read: _Why I Put Pronouns on my Email Signature and You Should Too_](https://medium.com/gender-inclusivit/why-i-put-pronouns-on-my-email-signature-and-linkedin-profile-and-you-should-too-d3dc942c8743))
 - 🎵 Listening to: <!-- LN -->[**Whalebones - _Every Alterations_ LP**](https://whalebones.bandcamp.com/album/every-alterations)<!-- ELN -->
 
