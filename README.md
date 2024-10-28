@@ -10,6 +10,6 @@ I make fast, accessible websites and web apps. Hire me to build you a website, t
 - 📚 I’m currently learning **Nuxt 3 and modern CSS**
 - 📫 How to reach me:  **https://www.michaelgale.dev/contact**
 - 😄 Pronouns: **he/him** ([Read: _Why I Put Pronouns on my Email Signature and You Should Too_](https://scribe.rip/gender-inclusivit/why-i-put-pronouns-on-my-email-signature-and-linkedin-profile-and-you-should-too-d3dc942c8743))
-- 🎵 Listening to: <!-- LN -->[**Whalebones - _GLAMOUR BOY_ LP**](https://whalebones.bandcamp.com/album/glamour-boy)<!-- ELN -->
+- 🎵 Listening to: <!-- LN -->[**I Am The Agent - _Wolves_ Single**](https://iamtheagent.bandcamp.com/track/wolves)<!-- ELN -->
 
 Check out [my blog  &rarr;](https://michaelgale.dev/blog/)
